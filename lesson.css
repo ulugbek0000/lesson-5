@@ -1,0 +1,172 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.navbar{
+  padding: 30px 150px;
+  display: flex;
+  align-items: center; 
+}
+.navbar-logo-link{
+  margin-right: 35px;
+}
+.nav-list{
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  margin-right: auto;
+}
+.nav-list a{
+  text-decoration: none;
+  font-size: 16px;
+  color:  #150C01;
+}
+.navbar-btn{
+  padding: 14px 30px;
+  background-color: #DC780B;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.banner{
+  padding-left: 150px;
+  padding-right: 150px;
+  display: flex;
+  justify-content:
+  space-between;
+  align-items: center;
+}
+.banner img{
+  width: 801px;
+  height: 670px;
+}
+.banner-text h2{
+  font-size: 49px;
+  color: #150C01;
+  width: 555px;
+  margin-bottom: 42px;
+  line-height: 57.6px;
+  font-weight: 700;
+}
+.banner-text p{
+  font-size: 16px;
+  color: #150C01;
+  width: 555px;
+  margin-bottom: 42px;
+  line-height: 24px;
+  font-weight: 500;
+}
+.banner-btn-secondary{
+  background-color: white;
+  border: 1px solid #DC780B;
+  color: #DC780B;
+  margin-left: 30px;
+}
+.center-1{
+  text-align: center;
+  color: #DC780B;
+  padding-bottom: 7px;
+  font-size: 16px;
+}
+.center-2{
+  text-align: center;
+  color: #150C01;
+ margin-top: 7px; 
+padding-bottom: 44px;
+font-size: 31.25px;
+}
+
+.home{
+  margin-left: 180px;
+  border: 1px solid white;
+  width: 300px;
+  height: 228px;
+}
+.home img{
+  padding-left: 128px;
+  border-radius: 21.05px;
+  padding-top: 15px;
+}
+.home h2{
+  padding: 15px 80px;
+  color: #150C01;
+}
+.home p{
+  padding: 15px 80px;
+  width: 350px;
+  height: 68px;
+  color: #150C01;
+}
+.delivery{
+  margin-left: 180px;
+  border: 1px solid white;
+  width: 300px;
+  height: 228px;
+}
+.delivery img{
+  padding-left: 128px;
+  border-radius: 21.05px;
+  padding-top: 15px; 
+}
+.delivery h2{
+  padding: 15px 80px;
+  color: #150C01;
+}
+.delivery p{
+  padding: 15px 80px;
+  width: 350px;
+  height: 68px;
+  color: #150C01;
+}
+.smile{
+  margin-left: 180px;
+  border: 1px solid white;
+  width: 300px;
+  height: 228px;
+}
+.smile img{
+  padding-left: 128px;
+  border-radius: 21.05px;
+  padding-top: 15px;
+}
+.smile h2{
+  padding: 15px 80px;
+  color: #150C01;
+}
+.smile p{
+  padding: 15px 80px;
+  width: 350px;
+  height: 68px;
+  color: #150C01;
+}
+.all{
+  display: flex;
+}
+.img{
+  padding-left: 128px;
+}
+.infor{
+  display: flex;
+  gap: 100px;
+}
+.infor h2{
+  color: #DC780B;
+  padding-bottom: 10px;
+
+}
+.div h1{
+width: 500px;
+} 
+.div p{
+width: 450px;
+}
+.div button{
+  background-color: #DC780B;
+  color: white;
+  border: 0;
+  width: 142px;
+  height: 42px;
+}
